@@ -1,0 +1,5 @@
+1001|Rahul Sharma|35|Delhi|9876543210|severe bleeding|1|Emergency|D101|B101|Discharged
+1002|Amit Kumar|24|Noida|9876543211|fever|3|General Medicine|D107|B102|Under Treatment
+1003|Priya Sharma|29|Delhi|9876543212|minor cut|4|General Medicine|D108|B103|Admitted
+1004|New Patient|21|Noida|9111111111|accident|3|Emergency|D101|B101|Admitted
+1005|Valid Name|30|Valid Address|9999999999|fever|3|General Medicine|NONE|NONE|Waiting
